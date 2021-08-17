@@ -1,0 +1,28 @@
+.card{
+	background-color:#F5E8C7;
+	width: 	75%;
+	margin-left: 12.5%;
+	margin-top: 5%;
+	text-align: center;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 5px 5px 15px 5px rgb(0 0 0 / 10%) ;
+
+}
+
+div {
+	width: 	75%;
+	margin-left: 12.5%;
+	margin-top: 5%;
+	text-align: center;
+	border-radius: 4px;
+}
+
+
+
+body {
+	background: #DEBA9D;
+	text-align: center;
+}
+
+

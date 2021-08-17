@@ -1,0 +1,23 @@
+.titulo {
+	font-size: 32px;
+	font-family: 'Roboto', sans-serif;
+	color:  #575F7D;
+	text-align: center;
+	font-weight: bold;	
+}
+
+.subtitulo {
+	color:  #575F7D;
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+
+.regular-text{
+	color:  #575F7D;
+ 	font-family: 'Roboto', sans-serif;
+ 	font-size: 16px;
+ 	font-weight: lighter;
+ 	text-align: center;		
+}

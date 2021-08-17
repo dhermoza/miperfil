@@ -1,0 +1,21 @@
+.flex
+{
+	display:  flex;
+	align-items: center;
+
+}
+
+
+.iconos{
+	color : #575F7D;
+	flex:  auto;
+	font-size: 50px;
+	margin:  0;
+	justify-content: center;
+
+}
+
+i:hover{
+	color:  gray;
+	font-size: 50px;
+}
